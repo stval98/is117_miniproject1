@@ -12,7 +12,10 @@ Changelog:
 -------------
 ## [1.0.0] - 2019-10-24
 **Added**
-- README.md format
+- README.md
+- [Collaboration tutorial](https://github.com/stval98/is117_miniproject1/blob/master/collaboration.md) 
 
+**Changed**
+- Change README.md structure
 Tutorials:
 

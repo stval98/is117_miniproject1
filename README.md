@@ -6,7 +6,7 @@ Table of Contents:
 -------------------
 + Basic Linux Commands
 + Git Workflow
-+ Git Collaboration
++ [Git Collaboration](https://github.com/stval98/is117_miniproject1/blob/master/collaboration.md) 
 
 Changelog:
 -------------
@@ -17,5 +17,11 @@ Changelog:
 
 **Changed**
 - Change README.md structure
-Tutorials:
+
+
+**Additional Tutorials:**
+- https://rogerdudler.github.io/git-guide/
+- https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/
+- https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/
+- https://help.github.com/en/articles/getting-changes-from-a-remote-repository
 

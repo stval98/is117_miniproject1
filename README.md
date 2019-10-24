@@ -5,7 +5,7 @@
 Table of Contents:
 -------------------
 + Basic Linux Commands
-+ Git Workflow
++ [Git Workflow](https://github.com/stval98/is117_miniproject1/blob/master/gitflow.md)
 + [Git Collaboration](https://github.com/stval98/is117_miniproject1/blob/master/collaboration.md) 
 
 Changelog:
@@ -14,6 +14,8 @@ Changelog:
 **Added**
 - README.md (Sophia)
 - [Collaboration tutorial](https://github.com/stval98/is117_miniproject1/blob/master/collaboration.md) (Sophia)
+- [Git Workflow tutorial](https://github.com/stval98/is117_miniproject1/blob/master/gitflow.md)
+
 
 **Changed**
 - Change README.md structure (Sophia)

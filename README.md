@@ -12,11 +12,11 @@ Changelog:
 -------------
 ## [1.0.0] - 2019-10-24
 **Added**
-- README.md
-- [Collaboration tutorial](https://github.com/stval98/is117_miniproject1/blob/master/collaboration.md) 
+- README.md (Sophia)
+- [Collaboration tutorial](https://github.com/stval98/is117_miniproject1/blob/master/collaboration.md) (Sophia)
 
 **Changed**
-- Change README.md structure
+- Change README.md structure (Sophia)
 
 
 **Additional Tutorials:**

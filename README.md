@@ -8,10 +8,11 @@ Table of Contents:
 + Git Workflow
 + Git Collaboration
 
-##Changelog:
+Changelog:
+-------------
 ## [1.0.0] - 2019-10-24
-## Added
+**Added**
 - README.md format
 
 Tutorials:
-+
+
